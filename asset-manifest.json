@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gameshop/static/css/main.26c39566.css",
+    "main.js": "/gameshop/static/js/main.2710af21.js",
+    "static/js/787.b701888c.chunk.js": "/gameshop/static/js/787.b701888c.chunk.js",
+    "static/media/NotoSansKR-Regular.otf": "/gameshop/static/media/NotoSansKR-Regular.8918c6411881646fdcfc.otf",
+    "static/media/Surfing Capital.ttf": "/gameshop/static/media/Surfing Capital.ea3828c45312ef97cabe.ttf",
+    "index.html": "/gameshop/index.html",
+    "main.26c39566.css.map": "/gameshop/static/css/main.26c39566.css.map",
+    "main.2710af21.js.map": "/gameshop/static/js/main.2710af21.js.map",
+    "787.b701888c.chunk.js.map": "/gameshop/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c39566.css",
+    "static/js/main.2710af21.js"
+  ]
+}
